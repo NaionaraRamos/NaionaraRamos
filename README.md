@@ -29,7 +29,7 @@ I am a student of Technology in Internet Systems and currently do an internship 
 <strong>📫 How to reach me </strong>
    
    1. [linkedin](https://www.linkedin.com/in/naionara-ramos-de-maceda-46036b174/)
-   2. [email](mailto:NaionaraRamos@gmail.com) 
+   2. [email](mailto:nramosmaceda@gmail.com) 
    
    
 <hr>
