@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=NaionaraRamos" alt="NaionaraRamos" /> <img src="https://img.shields.io/badge/Pronouns-She%2FHer-green" alt="pronouns: she/her" />
 
 
-I am a student of Technology in Internet Systems and currently do an internship in IT at the Federal Public Ministry. My focus is on web development, using technologies such as Java, Javascript and Python.
+I am a student of Technology in Internet Systems and currently do an internship in IT at the Federal Prosecution Service. My focus is on web development, using technologies such as Java, Javascript and Python.
 
 <strong>🔭 Technologies</strong>
 
