@@ -21,7 +21,9 @@ I am a student of Technology in Internet Systems and currently do an internship 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35"/>
+![Angular](https://img.shields.io/badge/-Angular-e83030?style=flat-square&logo=angular)
+![Django](https://img.shields.io/badge/-Django-113B92?style=flat-square&logo=Django)
+![Spring](https://img.shields.io/badge/-Spring-c0e5b3?style=flat-square&logo=spring)
 
 
 <hr>
