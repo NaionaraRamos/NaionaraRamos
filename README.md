@@ -1,10 +1,10 @@
-<h2>Hello, I Am Naionara! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h2>
+<h2>Hello, I am Naionara Ramos! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h2>
 <img align='right' src="https://i.pinimg.com/originals/4a/48/0d/4a480da3587cd62b24880c3dbb126083.jpg" width="330">
 
 <img src="https://komarev.com/ghpvc/?username=NaionaraRamos" alt="NaionaraRamos" /> <img src="https://img.shields.io/badge/Pronouns-She%2FHer-green" alt="pronouns: she/her" />
 
 
-I am a student of Technology in Internet Systems and currently do an internship in IT at the Federal Prosecution Service. My focus is on web development, using technologies such as Java, Javascript and Python.
+I have an Associate's Degree in Web Systems and currently am an intern at the the Federal Prosecution Service. My main area of interest is web development, in which I use technologies such as Java, Javascript and Python.
 
 <strong>🔭 Technologies</strong>
 
@@ -14,7 +14,7 @@ I am a student of Technology in Internet Systems and currently do an internship 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+<!--![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)-->
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
