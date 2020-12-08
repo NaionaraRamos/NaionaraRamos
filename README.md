@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=NaionaraRamos" alt="NaionaraRamos" /> <img src="https://img.shields.io/badge/Pronouns-She%2FHer-green" alt="pronouns: she/her" />
 
 
-I have an Associate's Degree in Web Systems and currently am an intern at the the Federal Prosecution Service. My main area of interest is web development, in which I use technologies such as Java, Javascript and Python.
+I have an Associate's Degree in Web Systems and worked as an intern at the the Federal Prosecution Service. My main area of interest is web development, in which I use technologies such as Java, Javascript and Python.
 
 <strong>🔭 Technologies</strong>
 
