@@ -53,7 +53,7 @@ I have an Associate's Degree in Web Systems and worked as an intern at the the F
 <br>
 
 <p tex-Align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaionaraRamos">
+  <img src="https://github-readme-stats.vercel.app/api?username=NaionaraRamos&show_icons=true&theme=gruvbox">
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaionaraRamos&layout=compact&theme=gruvbox">-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaionaraRamos">
  </p>
